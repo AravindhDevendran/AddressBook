@@ -1,2 +1,3 @@
 Hi this is for merge conflict
 Branch02 changes
+Merge conflict not happened
