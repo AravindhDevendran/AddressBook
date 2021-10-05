@@ -3,3 +3,4 @@ Branch02 changes
 Merge conflict should happen
 Merge conflict not happened
 Merge conflict should not happen branch01
+Merge conflict not happened branch02 changes
