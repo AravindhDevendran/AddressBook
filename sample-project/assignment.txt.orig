@@ -1,5 +1,9 @@
 Hi this is for merge conflict
 Branch02 changes
+<<<<<<< HEAD
 Merge conflict should happen
 Merge conflict not happened
+
+=======
 Merge conflict should not happen branch01
+>>>>>>> branch01
